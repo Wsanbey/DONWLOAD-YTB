@@ -14,16 +14,16 @@ Ferramenta para baixar videos e musicas do YouTube.
 - yt-dlp
 
 ## Uso
-`ash
+```bash
 python download.py --url "https://youtube.com/watch?v=..." --format mp4
-`
+```
 
 ## Instalacao
-`ash
+```bash
 git clone https://github.com/Wsanbey/DONWLOAD-YTB.git
 cd DONWLOAD-YTB
 pip install -r requirements.txt
-`
+```
 
 ## Licenca
 MIT
